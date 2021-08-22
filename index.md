@@ -1,5 +1,5 @@
 ---
-# OS212 Repository
+### OS212 Repository
 ---
 
 Hello , My name is **Teuku Faiz Aryasena**.
