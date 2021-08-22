@@ -1,4 +1,8 @@
-## OS212 Repository
+---
+title-heading: false
+---
+
+# OS212 Repository
 
 Hello , My name is **Teuku Faiz Aryasena**.
 Welcome my Operating Systems 2021-2 Repository
