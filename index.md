@@ -6,3 +6,6 @@ Welcome to my Operating Systems 2021-2 Repository
 ### *IMPORTANT LINKS :*
 - [My Repository](https://github.com/teukufaiz/os212)
 - [My Log](https://teukufaiz.github.io/os212/TXT/mylog.txt)
+
+### *NOT IMPORTANT :*
+- [Random Things](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
