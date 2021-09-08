@@ -9,3 +9,5 @@ ZCZC W00 05  L14 Assignment #04
 ZCZC W00 110 L02 ZOOM Meetings Related ( OS Meeting Ke-1 )
 ZCZC W00 30  L02 ZOOM Meetings Related ( OS Meeting Ke-2 )
 ZCZC W00 90  L15 Assignment #05
+ZCZC W01 120 L02 ZOOM Meetings Related ( OS Meeting Ke-1 )
+ZCZC W01 05  L11 Assignment #01
