@@ -9,11 +9,12 @@ ZCZC W00 05  L14 Assignment #04
 ZCZC W00 110 L02 ZOOM Meetings Related ( OS Meeting Ke-1 )
 ZCZC W00 30  L02 ZOOM Meetings Related ( OS Meeting Ke-2 )
 ZCZC W00 90  L15 Assignment #05
+
 ZCZC W01 05  L22 Quiz (Mengerjakan Quiz Week 0)
 ZCZC W01 120 L02 ZOOM Meetings Related ( OS Meeting Ke-1 )
 ZCZC W01 15  L11 Assignment #01
 ZCZC W01 10  L12 Assignment #02
-ZCZC W00 30  L02 ZOOM Meetings Related ( OS Meeting Ke-2 )
+ZCZC W01 30  L02 ZOOM Meetings Related ( OS Meeting Ke-2 )
 ZCZC W01 30  L13 Assignment #03
 ZCZC W01 10  L14 Assignment #04
 ZCZC W01 15  L15 Assignment #05
@@ -22,3 +23,20 @@ ZCZC W01 05  L17 Assignment #07
 ZCZC W01 60  L18 Assignment #08
 ZCZC W01 120 L19 Assignment #09
 ZCZC W01 30  L64 Helping OS related problem to a friend.(Membantu set-up OS Week 1)
+
+ZCZC W02 20  L22 Quiz (Mengerjakan Quiz Week 1)
+ZCZC W02 110 L02 ZOOM Meetings Related ( OS Meeting Ke-1 )
+ZCZC W01 20  L02 ZOOM Meetings Related ( OS Meeting Ke-2 )
+ZCZC W02 120 L11 Assignment #01
+ZCZC W02 30  L12 Assignment #02
+ZCZC W02 180 L13 Assignment #03
+ZCZC W02 10  L14 Assignment #04
+ZCZC W02 10  L15 Assignment #05
+ZCZC W02 10  L16 Assignment #06
+ZCZC W02 10  L17 Assignment #07
+ZCZC W02 10  L18 Assignment #08
+ZCZC W02 15  L19 Assignment #09
+ZCZC W02 10  L20 Assignment #10
+ZCZC W02 05  L09 Assignment in General (Assignment #11)
+ZCZC W02 10  L09 Assignment in General (Assignment #12)
+ZCZC W02 10  L09 Assignment in General (Assignment #13)
