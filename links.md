@@ -10,5 +10,5 @@ A beginner's guide to know what is linux, learn how to install linux, and learn 
 A beginner's guide to learn basic commands for linux and how to use it.
 4. [Tutorial Belajar Bahasa Pemrograman C Untuk Pemula](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-c-bagi-pemula/#menulis_c)<br>
 A complete guide for beginner to learn basic of C language. (Quick learn for quiz in week 2)
-5. [C Syntax Rules – Learn the ABCs of Programming in C Language](https://data-flair.training/blogs/c-basic-syntax-rules/)
+5. [C Syntax Rules – Learn the ABCs of Programming in C Language](https://data-flair.training/blogs/c-basic-syntax-rules/)<br>
 A basic syntax for C language and quick learn the basic commands)
