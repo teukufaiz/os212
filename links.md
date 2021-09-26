@@ -12,3 +12,7 @@ A beginner's guide to learn basic commands for linux and how to use it.
 A complete guide for beginner to learn basic of C language. (Quick learn for quiz in week 2)
 5. [C Syntax Rules – Learn the ABCs of Programming in C Language](https://data-flair.training/blogs/c-basic-syntax-rules/)<br>
 A basic syntax for C language and quick learn the basic commands
+6. [Operating System - File System](https://www.tutorialspoint.com/operating_system/os_file_system.htm) <br>
+A website that explains about linux file system
+7. [Learn Basic File Management Commands in Linus](https://www.tecmint.com/linux-file-management-commands/)<br>
+A beginner's guide to learn basic commands for basic file management commands in linux
