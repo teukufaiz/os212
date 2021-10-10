@@ -19,4 +19,6 @@ A beginner's guide to learn basic commands for basic file management commands in
 8. [Dynamic Memory Allocation in C](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)<br>
 A website that explain abous memory allocation using malloc(),calloc(),free(), and realloc()
 9. [C - Memory Management](https://www.tutorialspoint.com/cprogramming/c_memory_management.htm)<br>
-More explanation abaout memory managemnt in C
+More explanation abaout memory management in C
+10. [Virtual Memory and Linux](http://events17.linuxfoundation.org/sites/events/files/slides/elc_2016_mem_0.pdf)<br>
+A pdf that provide virtual memory explanation about linux
