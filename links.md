@@ -17,8 +17,10 @@ A website that explains about linux file system
 7. [Learn Basic File Management Commands in Linus](https://www.tecmint.com/linux-file-management-commands/)<br>
 A beginner's guide to learn basic commands for basic file management commands in linux
 8. [Dynamic Memory Allocation in C](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)<br>
-A website that explain abous memory allocation using malloc(),calloc(),free(), and realloc()
+A website that explain about memory allocation using malloc(),calloc(),free(), and realloc()
 9. [C - Memory Management](https://www.tutorialspoint.com/cprogramming/c_memory_management.htm)<br>
-More explanation abaout memory management in C
+More explanation about memory management in C
 10. [Virtual Memory and Linux](http://events17.linuxfoundation.org/sites/events/files/slides/elc_2016_mem_0.pdf)<br>
 A pdf that provide virtual memory explanation about linux
+11. [Concurrency](https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/)<br>
+A website that explain Thread and Concurrency from the basic

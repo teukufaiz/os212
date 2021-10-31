@@ -79,3 +79,15 @@ ZCZC W05 15  L16 Assignment #06
 ZCZC W05 10  L17 Assignment #07
 ZCZC W05 10  L18 Assignment #08
 ZCZC W05 05  L19 Assignment #09
+
+ZCZC W06 20  L22 Quiz (Mengerjakan Quiz Week 5)
+ZCZC W06 100 L02 Zoom meetings related (OS meeting Ke-1)
+ZCZC W06 90  L11 Assignment #01
+ZCZC W06 30  L12 Assignment #02
+ZCZC W06 30  L13 Assignment #03
+ZCZC W06 30  L14 Assignment #04
+ZCZC W06 15  L15 Assignment #05
+ZCZC W06 10  L16 Assignment #06
+ZCZC W06 10  L17 Assignment #07
+ZCZC W06 15  L18 Assignment #08
+ZCZC W06 05  L19 Assignment #09
