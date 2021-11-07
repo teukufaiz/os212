@@ -24,3 +24,5 @@ More explanation about memory management in C
 A pdf that provide virtual memory explanation about linux
 11. [Concurrency](https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/)<br>
 A website that explain Thread and Concurrency from the basic
+12.[Process Synchronization & Deadlock](http://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)<br>
+A website that explain and visualize about  Synchronization and Deadlock 
