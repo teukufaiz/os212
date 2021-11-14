@@ -26,3 +26,5 @@ A pdf that provide virtual memory explanation about linux
 A website that explain Thread and Concurrency from the basic
 12.[Process Synchronization & Deadlock](http://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)<br>
 A website that explain and visualize about  Synchronization and Deadlock 
+13.[CPU Scheduling in OS](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+A website that explain about scheduling
