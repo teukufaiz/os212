@@ -28,3 +28,6 @@ A website that explain Thread and Concurrency from the basic
 A website that explain and visualize about  Synchronization and Deadlock 
 13.[CPU Scheduling in OS](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
 A website that explain about scheduling
+14.[Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
+A website that show us step by step how to create linux from scratch
+

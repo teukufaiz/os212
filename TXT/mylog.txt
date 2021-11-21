@@ -118,3 +118,15 @@ ZCZC W08 05  L17 Assignment #07
 ZCZC W08 10  L18 Assignment #08
 ZCZC W08 10  L19 Assignment #09
 ZCZC W08 05  L20 Assignment #10
+
+ZCZC W09 110 L02 Zoom meetings related (OS meeting Ke-1)
+ZCZC W09 90  L11 Assignment #01
+ZCZC W09 30  L12 Assignment #02
+ZCZC W09 30  L13 Assignment #03
+ZCZC W09 210 L14 Assignment #04
+ZCZC W09 15  L15 Assignment #05
+ZCZC W09 05  L16 Assignment #06
+ZCZC W09 10  L17 Assignment #07
+ZCZC W09 10  L18 Assignment #08
+ZCZC W09 05  L19 Assignment #09
+
